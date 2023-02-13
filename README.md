@@ -1,4 +1,4 @@
-# turakdesign-html-css-landingpage
+# Landing-Page Design de Interiores
 Projeto de estudos:
 
 Neste projeto tive a oportunidade de praticar seletores mais complexos, flex-box e aprendi como armazenar e utilizar variáveis no CSS.
